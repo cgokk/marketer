@@ -460,6 +460,7 @@ video {
     width: 405px;
     height: 270px;
     padding: 25px 30px;
+    border: none;
     border-radius: 12px;
     background-color: #fff;
     background-image: url(img/트렌드.png);
@@ -539,9 +540,10 @@ video {
     width: 405px;
     height: 270px;
     padding: 25px 30px;
+    border: none;
     border-radius: 12px;
     background-color: #fff;
-    background-image: url(img/협업.png);
+    background-image: url(img/공유.png);
     background-size: 300px;
     background-repeat: no-repeat;
     background-position: right bottom;
@@ -576,7 +578,7 @@ video {
 }
 
 #about_02:hover {
-    background-image: url(img/협업h.png);
+    background-image: url(img/공유h.png);
     background-size: 295px;
     background-repeat: no-repeat;
     background-position: right bottom;
@@ -614,6 +616,7 @@ video {
     height: 270px;
     padding: 25px 30px;
     margin-top: 24px;
+    border: none;
     border-radius: 12px;
     background-color: #fff;
     background-image: url(img/고객.png);
@@ -689,6 +692,7 @@ video {
     height: 270px;
     padding: 25px 30px;
     margin-top: 24px;
+    border: none;
     border-radius: 12px;
     background-color: #fff;
     background-image: url(img/성장.png);
@@ -912,7 +916,7 @@ footer p span {
     }
 
     .header .inner_header {
-        padding: 0 26px;
+        padding: 0 24px;
     }
 
     .header .logo {
@@ -933,11 +937,11 @@ footer p span {
     }
 
     .ray_01 {
-        padding: 30px 0 50px;
+        padding: 25px 0 50px;
     }
 
     .ray_con_01 {
-        padding: 0 26px;
+        padding: 0 24px;
     }
 
     .if {
@@ -997,7 +1001,7 @@ footer p span {
     }
 
     .ray_con_02 {
-        padding: 0 26px;
+        padding: 0 24px;
     }
 
     .if_text_02 {
@@ -1018,7 +1022,7 @@ footer p span {
     }
 
     .ray_con_03 {
-        padding: 0 26px;
+        padding: 0 24px;
     }
 
     .if_text_03 {
@@ -1044,7 +1048,7 @@ footer p span {
     }
 
     .ray_con_04 {
-        padding: 0 26px;
+        padding: 0 24px;
     }
 
     .if_text_04 {
@@ -1065,7 +1069,7 @@ footer p span {
     }
 
     .ray_con_05 {
-        padding: 0 26px;
+        padding: 0 24px;
     }
 
     .if_text_05 {
@@ -1208,7 +1212,7 @@ footer p span {
     }
 
     footer {
-        padding: 0 26px;
+        padding: 0 24px;
     }
 
     footer a {
