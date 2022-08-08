@@ -295,7 +295,7 @@ p {
     width: 100%;
     padding: 100px 0;
     margin: 0 auto;
-    background: #e5e5e58C;
+    background: #e5e5e580;
 }
 
 .ray_con_03 {
@@ -331,7 +331,7 @@ video {
     display: block;
     width: 100%;
     border-radius: 12px;
-    border: #f5f5f5;
+    border: none;
 }
 
 .ray_04 {
@@ -339,7 +339,7 @@ video {
     width: 100%;
     padding: 100px 0;
     margin: 0 auto;
-    background: #f5f5f5;
+    background: #e5e5e599;
 }
 
 .ray_con_04 {
@@ -413,21 +413,12 @@ video {
     background-color: #a3a3a3;
 }
 
-.ray_04 .swiper-slide img {
-    display: block;
-    width: 97%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 8px;
-    box-shadow: rgb(0 0 0 / 4%) 2px 3px 2px 0px;
-}
-
 .ray_05 {
     position: relative;
     width: 100%;
-    padding: 100px 0 60px;
+    padding: 100px 0;
     margin: 0 auto;
-    background: #fafafa;
+    background: #f5f5f5;
 }
 
 .ray_con_05 {
@@ -768,9 +759,9 @@ video {
 .ray_06 {
     position: relative;
     width: 100%;
-    padding: 50px 0 100px;
+    padding: 40px 0 100px;
     margin: 0 auto;
-    background: #fafafa;
+    background: linear-gradient(#f5f5f5, #fafafa);;
     border-radius: 20px;
 }
 
@@ -942,7 +933,7 @@ footer p span {
     }
 
     .ray_01 {
-        padding: 25px 0 50px;
+        padding: 30px 0 50px;
     }
 
     .ray_con_01 {
@@ -1069,17 +1060,8 @@ footer p span {
         margin-bottom: 24px;
     }
 
-    .ray_04 .swiper-slide img {
-        margin: 0 auto;
-        width: 96%;
-        height: 100%;
-        object-fit: cover;
-        border-radius: 8px;
-        box-shadow: rgb(0 0 0 / 3%) 2px 5px 4px 0px;
-    }
-
     .ray_05 {
-        padding: 50px 0 20px;
+        padding: 50px 0 30px;
     }
 
     .ray_con_05 {
@@ -1097,7 +1079,6 @@ footer p span {
         background-size: 280px;
         padding: 18px 24px;
         border-radius: 8px;
-        box-shadow: rgb(0 0 0 / 3%) 4px 5px 4px 0px;
     }
 
     .about_a1 {
@@ -1126,7 +1107,6 @@ footer p span {
         background-size: 280px;
         padding: 18px 24px;
         border-radius: 8px;
-        box-shadow: rgb(0 0 0 / 3%) 4px 5px 4px 0px;
     }
 
     .about_b1 {
@@ -1155,7 +1135,6 @@ footer p span {
         background-size: 280px;
         padding: 18px 24px;
         border-radius: 8px;
-        box-shadow: rgb(0 0 0 / 3%) 4px 5px 4px 0px;
     }
 
     .about_c1 {
@@ -1184,7 +1163,6 @@ footer p span {
         background-size: 280px;
         padding: 18px 24px;
         border-radius: 8px;
-        box-shadow: rgb(0 0 0 / 3%) 4px 5px 4px 0px;
     }
 
     .about_d1 {
