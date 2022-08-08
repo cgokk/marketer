@@ -1007,6 +1007,7 @@ footer p span {
     .if_text_02 {
         font-size: 26px;
         font-weight: 600;
+        white-space: pre;
         line-height: 1.4;
         margin-bottom: 16px;
     }
@@ -1027,6 +1028,7 @@ footer p span {
 
     .if_text_03 {
         font-size: 26px;
+        white-space: pre;
         line-height: 130%;
     }
 
@@ -1054,6 +1056,7 @@ footer p span {
     .if_text_04 {
         font-size: 26px;
         font-weight: 600;
+        white-space: pre;
         line-height: 130%;
         margin-bottom: 16px;
     }
@@ -1075,6 +1078,7 @@ footer p span {
     .if_text_05 {
         font-size: 26px;
         line-height: 130%;
+        white-space: pre;
         margin-bottom: 12px;
     }
 
