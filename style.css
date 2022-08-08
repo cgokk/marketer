@@ -1005,16 +1005,19 @@ footer p span {
     }
 
     .if_text_02 {
+        text-align: left;
         font-size: 26px;
         font-weight: 600;
         white-space: pre;
-        line-height: 1.4;
+        line-height: 1.25;
         margin-bottom: 16px;
     }
 
     .if_text_02_01 {
+        text-align: left;
         font-size: 18px;
         white-space: pre;
+        line-height: 1.5;
         margin-bottom: 24px;
     }
 
@@ -1027,14 +1030,19 @@ footer p span {
     }
 
     .if_text_03 {
+        text-align: left;
         font-size: 26px;
+        font-weight: 600;
         white-space: pre;
-        line-height: 130%;
+        line-height: 1.25;
+        margin-bottom: 16px;
     }
 
     .if_text_03_01 {
+        text-align: left;
         font-size: 18px;
         white-space: pre;
+        line-height: 1.5;
         margin-bottom: 24px;
     }
 
@@ -1054,16 +1062,19 @@ footer p span {
     }
 
     .if_text_04 {
+        text-align: left;
         font-size: 26px;
         font-weight: 600;
         white-space: pre;
-        line-height: 130%;
+        line-height: 1.25;
         margin-bottom: 16px;
     }
 
     .if_text_04_01 {
+        text-align: left;
         font-size: 18px;
         white-space: pre;
+        line-height: 1.5;
         margin-bottom: 24px;
     }
 
@@ -1076,9 +1087,11 @@ footer p span {
     }
 
     .if_text_05 {
+        text-align: left;
         font-size: 26px;
-        line-height: 130%;
+        font-weight: 600;
         white-space: pre;
+        line-height: 1.25;
         margin-bottom: 12px;
     }
 
