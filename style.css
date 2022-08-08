@@ -415,11 +415,11 @@ video {
 
 .ray_04 .swiper-slide img {
     display: block;
-    width: 96%;
+    width: 97%;
     height: 100%;
     object-fit: cover;
     border-radius: 8px;
-    box-shadow: rgb(0 0 0 / 5%) 3px 4px 3px 0px;
+    box-shadow: rgb(0 0 0 / 4%) 2px 3px 2px 0px;
 }
 
 .ray_05 {
@@ -1075,7 +1075,7 @@ footer p span {
         height: 100%;
         object-fit: cover;
         border-radius: 8px;
-        box-shadow: rgb(0 0 0 / 4%) 4px 5px 4px 0px;
+        box-shadow: rgb(0 0 0 / 3%) 2px 5px 4px 0px;
     }
 
     .ray_05 {
