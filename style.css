@@ -205,11 +205,10 @@ p {
 .scroll {
     position: absolute;
     display: block;
-    left: 50%;
+    left: 49%;
     width: 35px;
     height: 35px;
     margin-top: 55px;
-    margin-left: -12px;
     border-left: 2px solid #e5e5e5;
     border-bottom: 2px solid #e5e5e5;
     -webkit-transform: rotate(-45deg);
