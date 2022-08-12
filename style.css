@@ -27,7 +27,7 @@ body {
 
 .swal-modal {
     width: 340px;
-    border-radius: 12px;
+    border-radius: 8px;
 }
 
 .swal-icon--success {
@@ -1255,7 +1255,6 @@ footer p span {
 
     .swal-modal {
         width: 300px;
-        border-radius: 8px;
     }
 
     .swal-title {
