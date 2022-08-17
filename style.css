@@ -542,7 +542,7 @@ video {
     border: none;
     border-radius: 12px;
     background-color: #fff;
-    background-image: url(img/공유.png);
+    background-image: url(img/톱니.png);
     background-size: 300px;
     background-repeat: no-repeat;
     background-position: right bottom;
@@ -577,7 +577,7 @@ video {
 }
 
 #about_02:hover {
-    background-image: url(img/공유h.png);
+    background-image: url(img/톱니h.png);
     background-size: 295px;
     background-repeat: no-repeat;
     background-position: right bottom;
